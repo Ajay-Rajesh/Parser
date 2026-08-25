@@ -1,0 +1,15 @@
+{
+  "source": "backend\\knowledge_base\\raw\\Bank\\CANARA withdraw-eng.pdf",
+  "pages": [
+    {
+      "page": 1,
+      "text": "नकद आहरण पर्ची / CASH WITHDRAWAL SLIP\nकेनरा बैंक दे Canara Bank\nयह प्रपत्र चेक नहीं है/ This Form is not a Cheque\nशाखा / Branch\n(केवल मूल शाखा के उपयोग के लिए) (Usable at Base Branch Only)\nदिनाक Date : ...............................................................................................................................................................\nसे नामे करके मुझे / Pay to self / us the sum of Rupees _____________________________________________________________________________________________________________________\nर\nखाताधारक के हस्ताक्षर\nमेरे/हमारे बचत खाता/ to the debit of my/our Saving’s Bank A/c No./भुगतान करें ।\nSignature of A/c Holder ....................................................................................................................................................\nखाता धारक(कों) का(के)नाम\nName(s) of A/c Holder(s) ..................................................................................................\nकार्यालय के प्रयोग के लिए / For Office Use\nलेनदेन आई डी / Trans. ID __________________________________________________________________________________________________________________________________________________\nटोकन संख्या / Token No .\nको र\nश्री/श्रीमती/सुश्री / Pay to Sh./Smt./Ms.\nप्रदर्त\nको र\nअदाता अधिकारी के हस्ताक्षर / Signature of Paying Official\nपारित अधिकारी के हस्ताक्षर / Signature of Passing Officer",
+      "ocr_used": true
+    },
+    {
+      "page": 2,
+      "text": "copy of PAN or Aadhar Card or any one of the oﬃcially valid Document\n(OVD) registered in CBS must accompany the withdrawal order form;\notherwise payment will be refused. (iii) Account Holder should come in\nperson (iv) This is not accepted for transfer and clearing.\nPass Book or",
+      "ocr_used": false
+    }
+  ]
+}
