@@ -44,4 +44,4 @@ def save_if_new(data):
         )
 
     print(f"Added to user_kb: {output_path}")
-    return True
+    return True 

@@ -66,7 +66,7 @@ class DropBox(QLabel):
         self.setStyleSheet("""
             QLabel {
                 border: 2px dashed #888;
-                border-radius: 12px;
+                border-radius: 12px; 
                 font-size: 20px;
             }
         """)

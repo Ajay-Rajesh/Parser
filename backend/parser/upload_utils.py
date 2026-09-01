@@ -10,4 +10,4 @@ def save_user_upload(file_bytes: bytes, original_filename: str) -> Path:
     save_path = UPLOAD_DIR / unique_name
     with open(save_path, "wb") as f:
         f.write(file_bytes)
-    return save_path
+    return save_path 
